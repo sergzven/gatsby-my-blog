@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: 'JAMstack architecture '
-image: /img/home-jumbotron.jpg
-heading: 'JAMstack architecture '
-subheading: 'Built with Gatsby, and Netlify CMS'
+title: JAMstack architecture 1
+image: /img/products-grid1.jpg
+heading: JAMstack architecture 2
+subheading: 'Built with Gatsby, and Netlify CMS 2'
 mainpitch:
   title: Welcome to my website
   description: >
