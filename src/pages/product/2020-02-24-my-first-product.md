@@ -3,7 +3,7 @@ templateKey: product-card
 title: My first product
 date: 2020-02-24T16:57:41.406Z
 description: This is a description of the product "One"
-featuredpost: false
+featuredpost: true
 featuredimage: /img/blog-index.jpg
 tags:
   - Product One
